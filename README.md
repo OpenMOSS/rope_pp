@@ -6,7 +6,7 @@ Qipeng Guo<sup>2,3</sup>, Zhaoxiang Liu<sup>4</sup>, Shiguo Lian<sup>4</sup>, Zi
 
 <sup>1</sup> Fudan Univerisity, <sup>2</sup>Shanghai Innovation Institute, <sup>3</sup>Shanghai AI Lab, <sup>4</sup>China Unicom
 
-[<a href="https://arxiv.org/abs/2506.14429">📝 Paper</a>] | [<a href="https://huggingface.co/papers/2506.14429">🔥 HF</a>] | [<a href="https://github.com/OpenMOSS/rope_pp">🚀 Code</a>] | [<a href="https://huggingface.co/papers/2506.14429">🤗 Model</a>]
+[<a href="https://arxiv.org/abs/2512.07525">📝 Paper</a>] | [<a href="https://huggingface.co/papers/2512.07525">🔥 HF</a>] | [<a href="https://github.com/OpenMOSS/rope_pp">🚀 Code</a>] | [<a href="https://huggingface.co/collections/SII-xrliu/rope">🤗 Model</a>]
 </div>
 
 ## Introduction
@@ -230,7 +230,7 @@ python run.py eval/eval_rope_pp_ruler_mask.py --dump-eval-details -r
 @article{liu2025beyond,
   title={Beyond Real: Imaginary Extension of Rotary Position Embeddings for Long-Context LLMs},
   author={Liu, Xiaoran and Song, Yuerong and Liu, Zhigeng and Huang, Zengfeng and Guo, Qipeng and Liu, Zhaoxiang and Lian, Shiguo and He, Ziwei and Qiu, Xipeng},
-  journal={arXiv preprint arXiv:},
+  journal={arXiv preprint arXiv:2512.07525},
   year={2025}
 }
 ```
